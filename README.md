@@ -1,4 +1,4 @@
-## Freym-Boost-Bulk
+## Teoresa Masivo
 Script para extraer los totales de un masivo de facturas. 
 
 Versión -all para extraer el proveedor con el input cliente.
