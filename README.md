@@ -15,6 +15,11 @@ python extractor.py . -o salida.csv
 
 python extractor-all.py .
 
+python sumatorio.py salida.csv n
+
+n - Indice de celda
+--debug (option)
+
 ## Fuente
 Desarrollado mediante perplexity.ai
 
