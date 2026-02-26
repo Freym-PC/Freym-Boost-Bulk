@@ -1,4 +1,4 @@
-## Teoresa de Freym PC
+## Teoresa Masivo de Freym PC
 Script para extraer los totales de un masivo de facturas. 
 
 Versión -all para extraer el proveedor con el input cliente.
